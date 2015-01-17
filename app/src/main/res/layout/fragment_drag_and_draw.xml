@@ -1,4 +1,5 @@
 <com.projects.ur13l.draganddraw.BoxDrawingView
     xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/drawingBox"
     android:layout_width="match_parent"
     android:layout_height="match_parent"/>

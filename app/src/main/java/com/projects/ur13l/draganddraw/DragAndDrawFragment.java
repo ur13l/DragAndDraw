@@ -1,6 +1,7 @@
 package com.projects.ur13l.draganddraw;
 
 import android.os.Bundle;
+import android.os.Parcelable;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -22,4 +23,7 @@ public class DragAndDrawFragment extends Fragment {
         View v = inflater.inflate(R.layout.fragment_drag_and_draw, parent, false);
         return v;
     }
+
+
+
  }
